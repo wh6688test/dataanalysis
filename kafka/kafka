@@ -1,0 +1,25 @@
+https://kafka.apache.org/documentation/#uses
+
+example of using kafka connector to consume csv file : 
+
+https://www.confluent.io/blog/ksql-in-action-enriching-csv-events-with-data-from-rdbms-into-AWS/
+
+(Setup Kafka  : configurations and so on... (cluster...)
+
+ Easy to use CLI tools
+ Configuration examples
+)
+(Log data, event data...)
+
+ (Pub/Sub model :   Publish message
+                    Consume message
+
+  DataConnectors :   DataStore (Data Source and Data Sink)
+
+  Data Stream (Processing data)
+
+  Dataless processing ... Dataful processing...
+
+
+
+...
